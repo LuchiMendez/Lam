@@ -1,0 +1,102 @@
+body{
+	margin: 20px;
+	
+	background: #cbf7f2;
+}
+a{
+	text-decoration:none; 
+	color:  #352f86;
+	font-weight: bold;
+}
+div {
+
+}
+.texto{
+	text-align: center;
+	margin: 0;
+}
+
+img{
+		max-width: 100%;
+		max-height: 100%;
+		border-radius: 10px;
+
+}
+
+p{
+	text-align: center;
+}
+.container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-items: center;
+}
+.titulo{
+	font-size: 24px;
+	margin: 0;
+	text-align: center;
+}
+
+.tarjeta{
+	border: 1px solid gray;
+	border-radius: 20px;
+	width: 40vw;
+
+	display: grid;
+	grid-template-columns: 30% 70%;
+	padding: 10px;
+	justify-content: center;
+	margin-bottom: 10px;
+	background: white;
+	    box-shadow: 4px 5px 2px 1px #405d6154;
+
+
+}
+.imagen{
+
+	
+
+}
+
+.url{
+	margin: 10px;
+
+}
+.ver{
+	display: grid;
+
+		grid-template-columns:1fr 1fr;
+}
+
+
+.cuerpo{
+   margin: 5%;
+   display: grid;
+   justify-content: center;
+   	align-self: center;
+    justify-self: center;
+}
+
+
+h1{
+	font-size: 70px;
+	text-align: center;
+	margin: 40px;
+	color: #7609d6;
+}
+
+.descripcion{
+	font-size: 30px;
+	text-align: center;
+	margin: 20px;
+}
+
+.app{
+text-align: center;
+margin: 3%;
+}
+
+.cont{
+	display: grid;
+	grid-template-rows: 30vh 33vh 30vh;
+}
