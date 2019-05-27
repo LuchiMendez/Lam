@@ -41,7 +41,7 @@ p{
 	
 	display: grid;
 	grid-template-columns: 30% 70%;
-	padding: 3%;
+	padding: 5%;
 	justify-content: center;
 	margin-bottom: 10px;
 	background: white;
